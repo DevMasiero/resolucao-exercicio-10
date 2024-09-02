@@ -1,0 +1,1 @@
+Imprima todos os elementos em que a idade é menor que 30 anos.
